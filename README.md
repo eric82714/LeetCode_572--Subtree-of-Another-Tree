@@ -6,11 +6,11 @@ Given two non-empty binary trees s and t, check whether tree t has exactly the s
 
 Given tree s:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_572--Subtree-of-Another-Tree/blob/master/image/example-1_1.PNG)
 
 Given tree t:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_572--Subtree-of-Another-Tree/blob/master/image/example-1_2.PNG)
 
 Return true, because t has the same structure and node values with a subtree of s.
  
@@ -18,10 +18,10 @@ Return true, because t has the same structure and node values with a subtree of 
 
 Given tree s:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_572--Subtree-of-Another-Tree/blob/master/image/example-2_1.PNG)
 
 Given tree t:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_572--Subtree-of-Another-Tree/blob/master/image/example-2_2.PNG)
 
 Return false.
